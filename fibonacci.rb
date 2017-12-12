@@ -3,7 +3,6 @@
 #Function to generate fibonacci upto limit
 #Usage ./fibonacci.rb limit
 
-
 def fibonacci limit
 
 	#initial array
